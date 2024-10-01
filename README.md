@@ -4,7 +4,7 @@
 ---
 
 ## 📝 **Project Overview**
-This project focuses on cleaning a messy movie dataset, which contains various issues such as missing values, incorrect formatting, and inconsistent data types. The aim is to preprocess the data to ensure it is ready for analysis, using **Pandas** for data cleaning operations.
+This project focuses on cleaning a messy movie dataset, which contains various issues such as missing values, incorrect formatting, and inconsistent data types. The aim is to preprocess the data to ensure it is ready for analysis, using **Pandas** and **NumPy** for data cleaning and numerical operations.
 
 ---
 
@@ -41,7 +41,7 @@ This project focuses on cleaning a messy movie dataset, which contains various i
    ```
 2. Install the required Python libraries:
    ```bash
-   pip install pandas
+   pip install pandas numpy
    ```
 
 ---
@@ -51,7 +51,7 @@ Since this project was developed in a Kaggle environment, you will need to chang
 
 ```python
 # Update the file path
-data = pd.read_csv("path_to_your_local_csv_file.csv")
+file_path = pd.read_csv("path_to_your_local_csv_file.csv")
 ```
 
 ---
