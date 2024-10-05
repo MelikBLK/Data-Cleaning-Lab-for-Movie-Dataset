@@ -37,7 +37,7 @@ This project focuses on cleaning a messy movie dataset, which contains various i
 ## 📂 **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MelikBLK/data-cleaning-lab.git
+   git clone https://github.com/MelikBLK/Data-Cleaning-Lab-for-Movie-Dataset.git
    ```
 2. Install the required Python libraries:
    ```bash
